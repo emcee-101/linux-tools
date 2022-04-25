@@ -1,4 +1,6 @@
 #!/bin/bash
+#Script, that helps you set up a charging treshold in a linux system on a Notebook, that supports this function.
+
 
 echo "The maximum power level of the battery is: "
 sudo cat /sys/class/power_supply/BAT0/charge_control_end_threshold
