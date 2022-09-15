@@ -35,6 +35,7 @@ set_limit () {
 }
 
 
+# check if run as root user
 if [[ $EUID -ne 0 ]]; then
     run_as_root="false"
     echo "Please use this script with sudo or from an admin shell, because this script is applying changes to your temporary system configuration."
