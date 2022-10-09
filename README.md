@@ -1,6 +1,5 @@
 # LinuxPerfTools
 
 small bash scripts for setting specific thingw on (my) linux devices including: 
-- a simple script to max out gaming performance on my (amd graphic card) linux pc
-- a simple script to max out gaming performance on my (intel cpu /w integrated graphics) linux notebook (CPU-only Script)
-- a simple script that sets a limit to the percentage my notebook is getting charged to increase battery health
+- to max out gaming performance on my (amd graphic card) linux pc [deprecated in the sense of that it is not up to my standards regarding cod equality anymore]
+- to set a limit to the percentage my notebook is getting charged to increase battery health (similar to official battery health tools on windows)
